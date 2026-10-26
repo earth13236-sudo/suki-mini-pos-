@@ -1,1 +1,1 @@
-# suki-mini-pos-
+# suki-mini-pos
